@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Slide xmlns="https://schemas.altazion.com/store/slide.xsd">
-  <Name>Opération crèpes</Name>
+  <Name>Définissez le titre de votre slide</Name>
   <Identity>{{git_repo_fullname}}</Identity>
   <Version>1.0</Version>
   <Author>{{git_repo_user}}</Author>
